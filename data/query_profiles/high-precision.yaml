@@ -1,0 +1,2 @@
+mode: high-precision
+description: Keep term expansion tighter and accept lower recall for cleaner results.

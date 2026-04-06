@@ -1,0 +1,2 @@
+mode: broad-recall
+description: Prefer higher recall with dynamic English term expansion and later deduplication.

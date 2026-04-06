@@ -1,0 +1,583 @@
+[
+  {
+    "abbr": "PPoPP",
+    "full_name": "ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/ppopp/",
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "aliases": [
+      "ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming",
+      "PPoPP"
+    ]
+  },
+  {
+    "abbr": "FAST",
+    "full_name": "USENIX Conference on File and Storage Technologies",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/fast/",
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "aliases": [
+      "FAST",
+      "USENIX Conference on File and Storage Technologies"
+    ]
+  },
+  {
+    "abbr": "DAC",
+    "full_name": "Design Automation Conference",
+    "dblp_url": "https://dblp.uni-trier.de/db/conf/dac/",
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "aliases": [
+      "DAC",
+      "Design Automation Conference"
+    ]
+  },
+  {
+    "abbr": "HPCA",
+    "full_name": "IEEE International Symposium on High Performance Computer Architecture",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/cnhpca/",
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "aliases": [
+      "HPCA",
+      "IEEE International Symposium on High Performance Computer Architecture"
+    ]
+  },
+  {
+    "abbr": "MICRO",
+    "full_name": "IEEE/ACM International Symposium on Microarchitecture",
+    "dblp_url": "https://dblp.uni-trier.de/db/conf/micro/index.html",
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "aliases": [
+      "IEEE/ACM International Symposium on Microarchitecture",
+      "MICRO"
+    ]
+  },
+  {
+    "abbr": "SC",
+    "full_name": "International Conference for High Performance Computing, Networking, Storage, and Analysis",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/sc/",
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "aliases": [
+      "International Conference for High Performance Computing, Networking, Storage, and Analysis",
+      "SC"
+    ]
+  },
+  {
+    "abbr": "ASPLOS",
+    "full_name": "International Conference on Architectural Support for Programming Languages and Operating Systems",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/asplos/",
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "aliases": [
+      "ASPLOS",
+      "International Conference on Architectural Support for Programming Languages and Operating Systems"
+    ]
+  },
+  {
+    "abbr": "ISCA",
+    "full_name": "International Symposium on Computer Architecture",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/isca/",
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "aliases": [
+      "ISCA",
+      "International Symposium on Computer Architecture"
+    ]
+  },
+  {
+    "abbr": "USENIX ATC",
+    "full_name": "USENIX Annual Technical Conference",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/usenix/index.html",
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "aliases": [
+      "ACM SIGOPS ATC",
+      "USENIX ATC",
+      "USENIX Annual Technical Conference"
+    ]
+  },
+  {
+    "abbr": "EuroSys",
+    "full_name": "European Conference on Computer Systems",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/eurosys/",
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "aliases": [
+      "EuroSys",
+      "European Conference on Computer Systems"
+    ]
+  },
+  {
+    "abbr": "SIGCOMM",
+    "full_name": "ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/sigcomm/index.html",
+    "field": "计算机网络",
+    "aliases": [
+      "ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",
+      "SIGCOMM"
+    ]
+  },
+  {
+    "abbr": "MobiCom",
+    "full_name": "ACM International Conference on Mobile Computing and Networking",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/mobicom/",
+    "field": "计算机网络",
+    "aliases": [
+      "ACM International Conference on Mobile Computing and Networking",
+      "MobiCom"
+    ]
+  },
+  {
+    "abbr": "INFOCOM",
+    "full_name": "IEEE International Conference on Computer Communications",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/infocom/",
+    "field": "计算机网络",
+    "aliases": [
+      "IEEE International Conference on Computer Communications",
+      "INFOCOM"
+    ]
+  },
+  {
+    "abbr": "NSDI",
+    "full_name": "Symposium on Network System Design and Implementation",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/nsdi/",
+    "field": "计算机网络",
+    "aliases": [
+      "NSDI",
+      "Symposium on Network System Design and Implementation"
+    ]
+  },
+  {
+    "abbr": "CCS",
+    "full_name": "ACM Conference on Computer and Communications Security",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/ccs/",
+    "field": "网络与信息安全",
+    "aliases": [
+      "ACM Conference on Computer and Communications Security",
+      "CCS"
+    ]
+  },
+  {
+    "abbr": "EUROCRYPT",
+    "full_name": "International Conference on the Theory and Applications of Cryptographic Techniques",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/eurocrypt/",
+    "field": "网络与信息安全",
+    "aliases": [
+      "EUROCRYPT",
+      "International Conference on the Theory and Applications of Cryptographic Techniques"
+    ]
+  },
+  {
+    "abbr": "S&P",
+    "full_name": "IEEE Symposium on Security and Privacy",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/sp/",
+    "field": "网络与信息安全",
+    "aliases": [
+      "IEEE Symposium on Security and Privacy",
+      "S&P"
+    ]
+  },
+  {
+    "abbr": "CRYPTO",
+    "full_name": "International Cryptology Conference",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/crypto/",
+    "field": "网络与信息安全",
+    "aliases": [
+      "CRYPTO",
+      "International Cryptology Conference"
+    ]
+  },
+  {
+    "abbr": "USENIX Security",
+    "full_name": "USENIX Security Symposium",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/uss/",
+    "field": "网络与信息安全",
+    "aliases": [
+      "USENIX Security",
+      "USENIX Security Symposium"
+    ]
+  },
+  {
+    "abbr": "NDSS",
+    "full_name": "Network and Distributed System Security Symposium",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/ndss/",
+    "field": "网络与信息安全",
+    "aliases": [
+      "NDSS",
+      "Network and Distributed System Security Symposium"
+    ]
+  },
+  {
+    "abbr": "PLDI",
+    "full_name": "ACM SIGPLAN Conference on Programming Language Design and Implementation",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/pldi/",
+    "field": "软件工程/系统软件/程序设计语言",
+    "aliases": [
+      "ACM SIGPLAN Conference on Programming Language Design and Implementation",
+      "PLDI"
+    ]
+  },
+  {
+    "abbr": "POPL",
+    "full_name": "ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/popl/",
+    "field": "软件工程/系统软件/程序设计语言",
+    "aliases": [
+      "ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages",
+      "POPL"
+    ]
+  },
+  {
+    "abbr": "FSE/ESEC",
+    "full_name": "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/sigsoft/",
+    "field": "软件工程/系统软件/程序设计语言",
+    "aliases": [
+      "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "FSE/ESEC"
+    ]
+  },
+  {
+    "abbr": "SOSP",
+    "full_name": "ACM Symposium on Operating Systems Principles",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/sosp/",
+    "field": "软件工程/系统软件/程序设计语言",
+    "aliases": [
+      "ACM Symposium on Operating Systems Principles",
+      "SOSP"
+    ]
+  },
+  {
+    "abbr": "OOPSLA",
+    "full_name": "Conference on Object-Oriented Programming Systems, Languages,and Applications",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/oopsla/",
+    "field": "软件工程/系统软件/程序设计语言",
+    "aliases": [
+      "Conference on Object-Oriented Programming Systems, Languages,and Applications",
+      "OOPSLA"
+    ]
+  },
+  {
+    "abbr": "ASE",
+    "full_name": "International Conference on Automated Software Engineering",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/kbse/",
+    "field": "软件工程/系统软件/程序设计语言",
+    "aliases": [
+      "ASE",
+      "International Conference on Automated Software Engineering"
+    ]
+  },
+  {
+    "abbr": "ICSE",
+    "full_name": "International Conference on Software Engineering",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/icse/",
+    "field": "软件工程/系统软件/程序设计语言",
+    "aliases": [
+      "ICSE",
+      "International Conference on Software Engineering"
+    ]
+  },
+  {
+    "abbr": "ISSTA",
+    "full_name": "International Symposium on Software Testing and Analysis",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/issta/",
+    "field": "软件工程/系统软件/程序设计语言",
+    "aliases": [
+      "ISSTA",
+      "International Symposium on Software Testing and Analysis"
+    ]
+  },
+  {
+    "abbr": "OSDI",
+    "full_name": "USENIX Symposium on Operating Systems Design and Implementations",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/osdi/",
+    "field": "软件工程/系统软件/程序设计语言",
+    "aliases": [
+      "OSDI",
+      "USENIX Symposium on Operating Systems Design and Implementations"
+    ]
+  },
+  {
+    "abbr": "FM",
+    "full_name": "International Symposium on Formal Methods",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/fm/",
+    "field": "软件工程/系统软件/程序设计语言",
+    "aliases": [
+      "FM",
+      "International Symposium on Formal Methods"
+    ]
+  },
+  {
+    "abbr": "SIGMOD",
+    "full_name": "ACM SIGMOD Conference",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/sigmod/",
+    "field": "数据库/数据挖掘/内容检索",
+    "aliases": [
+      "ACM SIGMOD Conference",
+      "SIGMOD"
+    ]
+  },
+  {
+    "abbr": "SIGKDD",
+    "full_name": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/kdd/",
+    "field": "数据库/数据挖掘/内容检索",
+    "aliases": [
+      "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "SIGKDD"
+    ]
+  },
+  {
+    "abbr": "ICDE",
+    "full_name": "IEEE International Conference on Data Engineering",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/icde/",
+    "field": "数据库/数据挖掘/内容检索",
+    "aliases": [
+      "ICDE",
+      "IEEE International Conference on Data Engineering"
+    ]
+  },
+  {
+    "abbr": "SIGIR",
+    "full_name": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/sigir/",
+    "field": "数据库/数据挖掘/内容检索",
+    "aliases": [
+      "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "SIGIR"
+    ]
+  },
+  {
+    "abbr": "VLDB",
+    "full_name": "International Conference on Very Large Data Bases",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/vldb/",
+    "field": "数据库/数据挖掘/内容检索",
+    "aliases": [
+      "International Conference on Very Large Data Bases",
+      "VLDB"
+    ]
+  },
+  {
+    "abbr": "STOC",
+    "full_name": "ACM Symposium on Theory of Computing",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/stoc/",
+    "field": "计算机科学理论",
+    "aliases": [
+      "ACM Symposium on Theory of Computing",
+      "STOC"
+    ]
+  },
+  {
+    "abbr": "SODA",
+    "full_name": "ACM-SIAM Symposium on Discrete Algorithms",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/soda/",
+    "field": "计算机科学理论",
+    "aliases": [
+      "ACM-SIAM Symposium on Discrete Algorithms",
+      "SODA"
+    ]
+  },
+  {
+    "abbr": "CAV",
+    "full_name": "International Conference on Computer Aided Verification",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/cav/",
+    "field": "计算机科学理论",
+    "aliases": [
+      "CAV",
+      "International Conference on Computer Aided Verification"
+    ]
+  },
+  {
+    "abbr": "FOCS",
+    "full_name": "IEEE Annual Symposium on Foundations of Computer Science",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/focs/",
+    "field": "计算机科学理论",
+    "aliases": [
+      "FOCS",
+      "IEEE Annual Symposium on Foundations of Computer Science"
+    ]
+  },
+  {
+    "abbr": "LICS",
+    "full_name": "ACM/IEEE Symposium on Logic in Computer Science",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/lics/",
+    "field": "计算机科学理论",
+    "aliases": [
+      "ACM/IEEE Symposium on Logic in Computer Science",
+      "LICS"
+    ]
+  },
+  {
+    "abbr": "ACM MM",
+    "full_name": "ACM International Conference on Multimedia",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/mm/",
+    "field": "计算机图形学与多媒体",
+    "aliases": [
+      "ACM International Conference on Multimedia",
+      "ACM MM"
+    ]
+  },
+  {
+    "abbr": "SIGGRAPH",
+    "full_name": "ACM Special Interest Group on Computer Graphics",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/siggraph/index.html",
+    "field": "计算机图形学与多媒体",
+    "aliases": [
+      "ACM Special Interest Group on Computer Graphics",
+      "SIGGRAPH"
+    ]
+  },
+  {
+    "abbr": "VR",
+    "full_name": "IEEE Virtual Reality",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/vr/",
+    "field": "计算机图形学与多媒体",
+    "aliases": [
+      "IEEE Virtual Reality",
+      "VR"
+    ]
+  },
+  {
+    "abbr": "IEEE VIS",
+    "full_name": "IEEE Visualization Conference",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/visualization/index.html",
+    "field": "计算机图形学与多媒体",
+    "aliases": [
+      "IEEE VIS",
+      "IEEE Visualization Conference"
+    ]
+  },
+  {
+    "abbr": "AAAI",
+    "full_name": "AAAI Conference on Artificial Intelligence",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/aaai/",
+    "field": "人工智能",
+    "aliases": [
+      "AAAI",
+      "AAAI Conference on Artificial Intelligence"
+    ]
+  },
+  {
+    "abbr": "NeurIPS",
+    "full_name": "Conference on Neural Information Processing Systems",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/nips/",
+    "field": "人工智能",
+    "aliases": [
+      "Conference on Neural Information Processing Systems",
+      "NeurIPS"
+    ]
+  },
+  {
+    "abbr": "ACL",
+    "full_name": "Annual Meeting of the Association for Computational Linguistics",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/acl/",
+    "field": "人工智能",
+    "aliases": [
+      "ACL",
+      "Annual Meeting of the Association for Computational Linguistics"
+    ]
+  },
+  {
+    "abbr": "CVPR",
+    "full_name": "IEEE/CVF Computer Vision and Pattern Recognition Conference",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/cvpr/",
+    "field": "人工智能",
+    "aliases": [
+      "CVPR",
+      "IEEE/CVF Computer Vision and Pattern Recognition Conference"
+    ]
+  },
+  {
+    "abbr": "ICCV",
+    "full_name": "International Conference on Computer Vision",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/iccv/",
+    "field": "人工智能",
+    "aliases": [
+      "ICCV",
+      "International Conference on Computer Vision"
+    ]
+  },
+  {
+    "abbr": "ICML",
+    "full_name": "International Conference on Machine Learning",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/icml/",
+    "field": "人工智能",
+    "aliases": [
+      "ICML",
+      "International Conference on Machine Learning"
+    ]
+  },
+  {
+    "abbr": "IJCAI",
+    "full_name": "International Joint Conference on Artificial Intelligence",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/ijcai/",
+    "field": "人工智能",
+    "aliases": [
+      "IJCAI",
+      "International Joint Conference on Artificial Intelligence"
+    ]
+  },
+  {
+    "abbr": "CSCW",
+    "full_name": "ACM Conference on Computer Supported Cooperative Work and Social Computing",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/cscw",
+    "field": "人机交互与普适计算",
+    "aliases": [
+      "ACM Conference on Computer Supported Cooperative Work and Social Computing",
+      "CSCW"
+    ]
+  },
+  {
+    "abbr": "CHI",
+    "full_name": "ACM Conference on Human Factors in Computing Systems",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/chi",
+    "field": "人机交互与普适计算",
+    "aliases": [
+      "ACM Conference on Human Factors in Computing Systems",
+      "CHI"
+    ]
+  },
+  {
+    "abbr": "UbiComp/IMWUT",
+    "full_name": "ACM international joint conference on Pervasive and Ubiquitous Computing/ Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+    "dblp_url": "https://dblp.org/db/journals/imwut/",
+    "field": "人机交互与普适计算",
+    "aliases": [
+      "ACM international joint conference on Pervasive and Ubiquitous Computing/ Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+      "UbiComp/IMWUT"
+    ]
+  },
+  {
+    "abbr": "UIST",
+    "full_name": "ACM Symposium on User Interface Software and Technology",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/uist/",
+    "field": "人机交互与普适计算",
+    "aliases": [
+      "ACM Symposium on User Interface Software and Technology",
+      "UIST"
+    ]
+  },
+  {
+    "abbr": "WWW",
+    "full_name": "International World Wide Web Conference",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/www/",
+    "field": "交叉/综合/新兴",
+    "aliases": [
+      "International World Wide Web Conference",
+      "WWW"
+    ]
+  },
+  {
+    "abbr": "RTSS",
+    "full_name": "IEEE Real-Time Systems Symposium",
+    "dblp_url": "http://dblp.uni-trier.de/db/conf/rtss/",
+    "field": "交叉/综合/新兴",
+    "aliases": [
+      "IEEE Real-Time Systems Symposium",
+      "RTSS"
+    ]
+  },
+  {
+    "abbr": "WINE",
+    "full_name": "Conference on Web and Internet Economics",
+    "dblp_url": "https://dblp.org/db/conf/wine/index.html",
+    "field": "交叉/综合/新兴",
+    "aliases": [
+      "Conference on Web and Internet Economics",
+      "WINE"
+    ]
+  }
+]

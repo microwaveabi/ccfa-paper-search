@@ -1,0 +1,4 @@
+interface:
+  display_name: "CCF Paper Search"
+  short_description: "Search 2023-2026 CCF-A conference papers by topic and save results locally"
+  default_prompt: "Search 2023-2026 CCF-A conference papers by topic, generate an aggressive high-recall English query plan with many relevant variants, deduplicate later, save structured outputs locally, and only download open-access PDFs."
